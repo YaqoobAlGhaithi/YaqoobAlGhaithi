@@ -1,19 +1,19 @@
-# README
+## 📋 جميع مشاريعي | All My Projects
 
-## This is the README for the YaqoobAlGhaithi repository.
-
-| Repository Name                             |
-|---------------------------------------------|
-| CodeLearn_Platform                          |
-| Object-Oriented-Programming_OOP_C-         |
-| programming-codes-                          |
-| C-Plus-Plus-Robert-Lafore-master            |
-| YaqoubAlGhaihtiProjectHtml                  |
-| webProject                                   |
-| HTML-CSS                                    |
-| programm                                     |
-| Web-design-README.md                         |
-| HISPTY                                      |
-| ...                                         |
-
-> Any Additional Information can be placed here.
+| المشروع | Project | الوصف | Description | اللغة | Language | الرابط |
+|---------|---------|-------|-------------|--------|----------|--------|
+| [YaqoobAlGhaithi](https://github.com/YaqoobAlGhaithi/YaqoobAlGhaithi) | YaqoobAlGhaithi | الملف التعريفي الشخصي الخاص بي على جيتهاب | My personal README profile repo on GitHub | - | - | [رابط](https://github.com/YaqoobAlGhaithi/YaqoobAlGhaithi) |
+| [POST-PRO](https://github.com/YaqoobAlGhaithi/POST-PRO) | POST-PRO | أداة ذكية لتحسين منشوراتك على وسائل التواصل الاجتماعي باستخدام الذكاء الاصطناعي | Smart tool to enhance your social media posts with AI | TypeScript | TypeScript | [رابط](https://github.com/YaqoobAlGhaithi/POST-PRO) |
+| [Integrated-educational-platform-](https://github.com/YaqoobAlGhaithi/Integrated-educational-platform-) | Integrated-educational-platform- | مشروع منصة تعليمية متكاملة | Integrated educational platform project | TypeScript | TypeScript | [رابط](https://github.com/YaqoobAlGhaithi/Integrated-educational-platform-) |
+| [Social-Post-Pro](https://github.com/YaqoobAlGhaithi/Social-Post-Pro) | Social-Post-Pro | أداة إدارة وتحليل منشورات السوشيال الذكية | AI-powered social post analysis & management tool | TypeScript | TypeScript | [رابط](https://github.com/YaqoobAlGhaithi/Social-Post-Pro) |
+| [smart-school-management-system](https://github.com/YaqoobAlGhaithi/smart-school-management-system) | Smart School Management | نظام ذكي لإدارة المدارس | Smart school management system | TypeScript | TypeScript | [رابط](https://github.com/YaqoobAlGhaithi/smart-school-management-system) |
+| [CodeLearn-Platform](https://github.com/YaqoobAlGhaithi/CodeLearn-Platform) | CodeLearn-Platform | منصة تعليمية | Educational platform | HTML | HTML | [رابط](https://github.com/YaqoobAlGhaithi/CodeLearn-Platform) |
+| [-Medical-Management-System-](https://github.com/YaqoobAlGhaithi/-Medical-Management-System-) | Medical Management System | نظام متكامل لإدارة الصيدلية | Medical management web system | PHP | PHP | [رابط](https://github.com/YaqoobAlGhaithi/-Medical-Management-System-) |
+| [Advanced-Programming-Lectures-by-Professor-Issa-Al-Jama-i-](https://github.com/YaqoobAlGhaithi/Advanced-Programming-Lectures-by-Professor-Issa-Al-Jama-i-) | Advanced Programming Lectures | أكواد وأمثلة عملية في البرمجة الكائنية | OOP Practical codes and lectures | C# | C# | [رابط](https://github.com/YaqoobAlGhaithi/Advanced-Programming-Lectures-by-Professor-Issa-Al-Jama-i-) |
+| [Object-Oriented-Programming-in-C-Yaqoob-AL-Ghaihti--07C3-](https://github.com/YaqoobAlGhaithi/Object-Oriented-Programming-in-C-Yaqoob-AL-Ghaihti--07C3-) | OOP in C++ | تطبيقات البرمجة الكائنية في ++C | OOP applications in C++ | C++ | C++ | [رابط](https://github.com/YaqoobAlGhaithi/Object-Oriented-Programming-in-C-Yaqoob-AL-Ghaihti--07C3-) |
+| [ObjectOrientedProgrammingRepository-](https://github.com/YaqoobAlGhaithi/ObjectOrientedProgrammingRepository-) | Object Oriented Programming Repository | أكواد وأمثلة عملية في البرمجة الكائنية | OOP Practical codes | C++ | C++ | [رابط](https://github.com/YaqoobAlGhaithi/ObjectOrientedProgrammingRepository-) |
+| [OOP-CPP-Course-Codes-Object-Oriented-Programming-in-C-](https://github.com/YaqoobAlGhaithi/OOP-CPP-Course-Codes-Object-Oriented-Programming-in-C-) | OOP-CPP Codes | أكواد وأمثلة مقرر البرمجة الكائنية | OOP course codes | C++ | C++ | [رابط](https://github.com/YaqoobAlGhaithi/OOP-CPP-Course-Codes-Object-Oriented-Programming-in-C-) |
+| [programming-terms-ar](https://github.com/YaqoobAlGhaithi/programming-terms-ar) | Programming Terms Arabic | مصطلحات برمجي�� مهمة | Important programming terms (AR) | - | - | [رابط](https://github.com/YaqoobAlGhaithi/programming-terms-ar) |
+| [Advanced-Programming-Lecture-Codes-Practical-](https://github.com/YaqoobAlGhaithi/Advanced-Programming-Lecture-Codes-Practical-) | Advanced Prog Practical Codes | أكواد ومواد عملية متقدمة | Advanced programming practical codes | C# | C# | [رابط](https://github.com/YaqoobAlGhaithi/Advanced-Programming-Lecture-Codes-Practical-) |
+| [-ProjectDesign](https://github.com/YaqoobAlGhaithi/-ProjectDesign) | Project Design | مشروع أو تصميم ويب | Web Project / Design | HTML | HTML | [رابط](https://github.com/YaqoobAlGhaithi/-ProjectDesign) |
+| [programming-c-](https://github.com/YaqoobAlGhaithi/programming-c-) | Programming C++ | أكواد برمجية باللغة c++ | C++ programming codes | C++ | C++ | [رابط](https://github.com/YaqoobAlGhaithi/programming-c-) |
