@@ -51,7 +51,7 @@
 |---------|-------|----------|
 | [**ProjectHtml**](https://github.com/YaqoobAlGhaithi/ProjectHtml) | موقع تفاعلي لتعلم أساسيات تصميم وتطوير الويب للمبتدئين | `HTML` `CSS` `JavaScript` |
 | [**Integrated Educational Platform**](https://github.com/YaqoobAlGhaithi/Integrated-educational-platform-) | منصة تعليمية متكاملة تهدف إلى تقديم محتوى تعليمي تقني منظم | `TypeScript` `React` `Node.js` |
-| **Pharmacy Management System** | نظام متكامل لإدارة الصيدليات يشمل إدارة الأدوية والمبيعات والتقارير | `C#` `SQL Server` |
+|[**Pharmacy Management System**](https://github.com/YaqoobAlGhaithi/-Medical-Management-System-) | نظام متكامل لإدارة الصيدليات يشمل إدارة الأدوية والمبيعات والتقارير | `C#` `SQL Server` |
 | [**POST-PRO**](https://github.com/YaqoobAlGhaithi/POST-PRO) | أداة ذكية لتحسين منشورات وسائل التواصل الاجتماعي باستخدام الذكاء الاصطناعي | `TypeScript` `AI` |
 | [**Social-Post-Pro**](https://github.com/YaqoobAlGhaithi/Social-Post-Pro) | أداة إدارة وتحليل منشورات السوشيال ميديا المدعومة بالذكاء الاصطناعي | `TypeScript` |
 | [**Smart School Management System**](https://github.com/YaqoobAlGhaithi/smart-school-management-system) | نظام ذكي متكامل لإدارة المدارس بمختلف أقسامها | `TypeScript` |
