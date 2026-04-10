@@ -121,3 +121,131 @@
 </div>
 
 </div>
+
+
+---
+
+# 👋 Hello, I'm Yaqoob Khaled Abdo Ahmed Al-Ghaithi
+
+<div align="left">
+
+### 💻 Bachelor's in Computer Science & Information Technology | Yemen 🇾🇪
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2D9CDB&background=FFFFFF00&center=false&vCenter=true&repeat=true&random=false&width=600&lines=Ambitious+Student+at+Ibb+University;Computer+Science+Specialist;Web+Developer+%26+Tech+Content+Creator)](https://git.io/typing-svg)
+
+---
+
+## 📝 About Me
+
+An ambitious student at **Ibb University**, majoring in Computer Science and Information Technology. I'm passionate about web development and building educational tech platforms. I aim to transform my technical explanations into open-source software projects that benefit my fellow students and Arab developers. I have a deep passion for sharing technical knowledge and simplifying complex concepts.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| [**ProjectHtml**](https://github.com/YaqoobAlGhaithi/ProjectHtml) | An interactive website for learning web design and development basics for beginners | `HTML` `CSS` `JavaScript` |
+| [**Integrated Educational Platform**](https://github.com/YaqoobAlGhaithi/Integrated-educational-platform-) | A comprehensive educational platform aimed at delivering structured technical educational content | `TypeScript` `React` `Node.js` |
+| [**Pharmacy Management System**](https://github.com/YaqoobAlGhaithi/-Medical-Management-System-) | An integrated pharmacy management system including drug inventory, sales, and reporting | `C#` `SQL Server` |
+| [**POST-PRO**](https://github.com/YaqoobAlGhaithi/POST-PRO) | A smart tool for optimizing social media posts using artificial intelligence | `TypeScript` `AI` |
+| [**Social-Post-Pro**](https://github.com/YaqoobAlGhaithi/Social-Post-Pro) | An AI-powered social media post management and analysis tool | `TypeScript` |
+| [**Smart School Management System**](https://github.com/YaqoobAlGhaithi/smart-school-management-system) | A comprehensive smart system for managing schools and their various departments | `TypeScript` |
+| [**CodeLearn-Platform**](https://github.com/YaqoobAlGhaithi/CodeLearn-Platform) | An interactive educational platform for teaching programming fundamentals | `HTML` `CSS` |
+| [**Medical Management System**](https://github.com/YaqoobAlGhaithi/-Medical-Management-System-) | An integrated medical management system for pharmacies and clinics | `PHP` |
+| [**Advanced Programming Lectures**](https://github.com/YaqoobAlGhaithi/Advanced-Programming-Lectures-by-Professor-Issa-Al-Jama-i-) | Advanced practical lectures and examples in object-oriented programming | `C#` |
+| [**Object Oriented Programming in C++**](https://github.com/YaqoobAlGhaithi/Object-Oriented-Programming-in-C-Yaqoob-AL-Ghaihti--07C3-) | Comprehensive applications and examples for the OOP course in C++ | `C++` |
+| [**Object Oriented Programming Repository**](https://github.com/YaqoobAlGhaithi/ObjectOrientedProgrammingRepository-) | A collection of practical code examples in object-oriented programming | `C++` |
+| [**OOP-CPP Course Codes**](https://github.com/YaqoobAlGhaithi/OOP-CPP-Course-Codes-Object-Oriented-Programming-in-C-) | Codes and examples for the OOP course in C++ | `C++` |
+| [**Advanced Programming Practical Codes**](https://github.com/YaqoobAlGhaithi/Advanced-Programming-Lecture-Codes-Practical-) | Advanced practical programming codes and materials | `C#` |
+| [**Programming Terms Arabic**](https://github.com/YaqoobAlGhaithi/programming-terms-ar) | A dictionary of essential programming terms translated into Arabic | `Markdown` |
+| [**ProjectDesign**](https://github.com/YaqoobAlGhaithi/-ProjectDesign) | A simple educational web design project template | `HTML` `CSS` |
+| [**Programming C++**](https://github.com/YaqoobAlGhaithi/programming-c-) | A collection of programming codes and problem solutions in C++ | `C++` |
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YaqoobAlGhaithi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YaqoobAlGhaithi&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YaqoobAlGhaithi&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Contact Me
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@Yaqoob__AL__Ghaihti__07C3-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Yaqoob_AL_Ghaihti_07C3)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+967_711_422_060-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/967711422060)
+[![Channel](https://img.shields.io/badge/Telegram_Channel-Explanations__technique__0__1-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Explanations_technique_0_1)
+[![Email](https://img.shields.io/badge/Email-yaqoubalghaithi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaqoubalghaithi@gmail.com)
+
+</div>
+
+---
+
+## 🎯 Future Goals
+
+- 🚀 Build impactful open-source software projects
+- 🤖 Dive deeper into Artificial Intelligence and smart systems
+- 🌍 Contribute to the Arab tech community
+- 📚 Continue learning and sharing knowledge
+
+---
+
+<div align="center">
+
+### 📢 Join Our Tech Community
+
+*I share simplified technical explanations and tutorials on my Telegram channel for fellow students and anyone interested in the world of technology.*
+
+**📍 Location:** Ibb Governorate, Yemen 🇾🇪
+
+---
+
+> ✨ *"Code is not just code; it's a way to solve problems and build the future."* ✨
+
+![Profile Views](https://komarev.com/ghpvc/?username=YaqoobAlGhaithi&color=blue&style=flat-square)
+
+</div>
+
+</div>
+
